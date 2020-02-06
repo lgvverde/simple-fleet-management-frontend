@@ -2,10 +2,16 @@
 ### A simple CRUD to use some React and Javascript skills.
 
 ## Let's start
-### Used NPM to install all the packages
+### Requirements
+- NPM
+- NODE
+- YARN
+- Visual Studio Code
+- Terminal
+- Used NPM to install all the packages
 
 ## Tests
-- For tests, just type 
+- For tests, just type into the terminal:
 > npm test
 - It'll be tested all the rendering process of all the pages in this application.
 

@@ -26,7 +26,12 @@ REACT_APP_WEBSITE_URL=http://www.testing.com.br
 - ***REACT_APP_API_URL*** is mandatory.
 
 ## Running
-- Just type ***npm start*** and wait for the application start.
+- Type ***npm install*** to install all the default packages to run the application;
+- Then, just type ***npm start*** and wait for the application start.
+
+## If you're facing some problems
+- First type the command ***npm cache verify***
+- If the error still persists, take a look on the application console and follow the instructions.
 
 
 ### Application preview

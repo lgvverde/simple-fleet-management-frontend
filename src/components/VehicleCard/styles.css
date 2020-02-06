@@ -1,0 +1,8 @@
+.vehicle-card {
+    cursor: pointer;
+}
+
+.vehicle-card:hover{
+    opacity: 0.7;
+    transition: opacity 0.4s ease;
+}

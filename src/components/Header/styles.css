@@ -1,0 +1,12 @@
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-logo .logo {
+    font-size: 36px;
+    text-align: center;
+    color: white;
+    cursor: default;
+}

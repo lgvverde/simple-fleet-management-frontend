@@ -1,0 +1,19 @@
+#mainNavbar {
+    margin-top: 1rem;
+}
+
+#mainNavbar li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+ }
+
+#mainNavbar .btn {
+    width: 80px;
+    height: 80px;
+}
+
+#mainNavbar .button-text {
+    display: block;
+    margin-top: 10px;
+}

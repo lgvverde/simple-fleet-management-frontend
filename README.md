@@ -1,5 +1,5 @@
 # Simple Fleet Management
-### A simple CRUD to use some React and Javascript skills.
+### A simple CRUD to show some React and Javascript skills.
 
 ## Let's start
 ### Requirements
